@@ -2,4 +2,7 @@
     <string name="app_name">TestTask</string>
     <string name="input_user_name_to_know_more">Input user name to know more</string>
     <string name="button">Button</string>
+    <string name="open_in_browser">Open in browser</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
 </resources>
