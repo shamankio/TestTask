@@ -5,4 +5,7 @@
     <string name="open_in_browser">Open in browser</string>
     <string name="save">Save</string>
     <string name="share">Share</string>
+    <string name="repositories_list">Repositories List:</string>
+    <string name="public_guest">public guest</string>
+    <string name="followers_count">followers count</string>
 </resources>
