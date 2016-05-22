@@ -8,4 +8,6 @@
     <string name="repositories_list">Repositories List:</string>
     <string name="public_guest">public guest</string>
     <string name="followers_count">followers count</string>
+    <string name="public_repos">public repos</string>
+    <string name="following_count">following count</string>
 </resources>
