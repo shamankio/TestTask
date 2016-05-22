@@ -39,10 +39,7 @@ public class ResultActivity extends AppCompatActivity {
             }
         });
 
-
-
         List<UserInfo> userInfoList = UserInfo.listAll(UserInfo.class);
-        Toast.makeText(getApplicationContext(),userInfoList.toString(),Toast.LENGTH_LONG).show();
         Log.d(">>DB ",userInfoList.toString());
 
         mRecyclerView = (RecyclerView) findViewById(R.id.recycler_view);
