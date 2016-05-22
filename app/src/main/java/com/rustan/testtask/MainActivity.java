@@ -24,6 +24,17 @@ public class MainActivity extends AppCompatActivity {
         toolbar.setTitle(R.string.app_name);
         setSupportActionBar(toolbar);
         editText = (EditText) findViewById(R.id.editText);
+
+        // fill DB
+        new UserInfo("title1", "english", 10, 20).save();
+        new UserInfo("title2", "ukraine", 5, 4).save();
+        new UserInfo("title3", "chine", 50, 30).save();
+        new UserInfo("title4", "spain", 80, 40).save();
+        new UserInfo("title5", "italian", 90, 35).save();
+        new UserInfo("title6", "english", 75, 50).save();
+        new UserInfo("title7", "russian", 5, 50).save();
+        new UserInfo("title8", "chine", 5, 50).save();
+        new UserInfo("title9", "ukraine", 5, 50).save();
     }
 
     public void clickButton(View view) {
