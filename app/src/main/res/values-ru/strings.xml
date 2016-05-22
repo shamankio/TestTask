@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Тестовое задание</string>
+    <string name="input_user_name_to_know_more">Введите имя пользователя</string>
+    <string name="button">Кнопка</string>
+    <string name="open_in_browser">Откріть в браузере</string>
+    <string name="save">Сохранить</string>
+    <string name="share">Поделиться</string>
+    <string name="repositories_list">Сохраненный список:</string>
+    <string name="public_guest">публичный гость</string>
+    <string name="followers_count">последователи к-во</string>
+    <string name="public_repos">побличный репозиторий</string>
+    <string name="following_count">последователей к-во</string>
+</resources>
